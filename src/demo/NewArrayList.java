@@ -1,9 +1,7 @@
 package demo;
 
-import java.util.ArrayList;
-import java.util.Collection;
+import java.util.*;
 import java.util.Collections;
-import java.util.Iterator;
 
 public class NewArrayList {
 
